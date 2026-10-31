@@ -1,0 +1,2253 @@
+{
+  "meta": {
+    "paper": "A",
+    "name": "A 卷 · 高频核心",
+    "generated_at": "2026-10-31T22:07:17",
+    "config": {
+      "name": "党校党考（入党积极分子 / 发展对象）",
+      "inferred": true,
+      "note": "用户未提供真实试卷结构，以下按题库题型推断；可在本文件修改后重新运行 analyze.py / make_exam.py。",
+      "duration_minutes": 90,
+      "pass_score": 60,
+      "total_points": 100,
+      "blueprint": [
+        {
+          "type": "single",
+          "count": 30,
+          "points": 1,
+          "name": "单项选择题"
+        },
+        {
+          "type": "multi",
+          "count": 10,
+          "points": 2,
+          "name": "多项选择题"
+        },
+        {
+          "type": "fill",
+          "count": 10,
+          "points": 1,
+          "name": "填空题"
+        },
+        {
+          "type": "short",
+          "count": 4,
+          "points": 10,
+          "name": "简答题"
+        }
+      ]
+    },
+    "disclaimer": "押题是基于历史频率与主题覆盖的相对排序，不是命题预测，也不保证命中。"
+  },
+  "sections": [
+    {
+      "type": "single",
+      "name": "单项选择题",
+      "points": 1,
+      "questions": [
+        {
+          "type": "single",
+          "section": "single",
+          "number": 116,
+          "stem": "党的二十大报告指出，从现在起，中国共产党的中心任务就是团结带领全国各族人民全面建成社会主义现代化强国、实现第二个百年奋斗目标，以（ ）全面推进中华民族伟大复兴。",
+          "options": [
+            {
+              "key": "A",
+              "text": "新高度新姿态"
+            },
+            {
+              "key": "B",
+              "text": "新奋斗新伟业"
+            },
+            {
+              "key": "C",
+              "text": "中国式现代化"
+            },
+            {
+              "key": "D",
+              "text": "党的伟大奋斗"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C. 中国式现代化",
+          "order": 113,
+          "id": "single-4776a330b3",
+          "source": "选择题题库.docx",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20"
+          ],
+          "rationale": {
+            "cluster_count": 4,
+            "topic": "congress20",
+            "topic_name": "党的二十大与中国式现代化",
+            "weighted_score": 24.14
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 104,
+          "stem": "红船精神的核心内涵是（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "开天辟地、敢为人先"
+            },
+            {
+              "key": "B",
+              "text": "坚定理想、百折不挠"
+            },
+            {
+              "key": "C",
+              "text": "立党为公，忠诚为民"
+            },
+            {
+              "key": "D",
+              "text": "清正廉洁，艰苦奋斗"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A"
+          ],
+          "answer_text": "A、开天辟地、敢为人先",
+          "order": 101,
+          "id": "single-20e151762c",
+          "source": "选择题题库.docx",
+          "topic": "history",
+          "topic_name": "党史与党的奋斗历程",
+          "tags": [
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "history",
+            "topic_name": "党史与党的奋斗历程",
+            "weighted_score": 17.877
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 70,
+          "stem": "我国成为一百四十多个国家和地区的主要贸易伙伴，货物贸易总额居（ ），吸引外资和对外投资居世界前列，形成更大范围、更宽领域、更深层次对外开放格局。",
+          "options": [
+            {
+              "key": "A",
+              "text": "世界第三"
+            },
+            {
+              "key": "B",
+              "text": "世界第二"
+            },
+            {
+              "key": "C",
+              "text": "世界第一"
+            },
+            {
+              "key": "D",
+              "text": "世界第四"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、世界第一",
+          "order": 67,
+          "id": "single-bc341caa67",
+          "source": "选择题题库.docx",
+          "topic": "economy",
+          "topic_name": "经济建设与高质量发展",
+          "tags": [
+            "economy",
+            "diplomacy"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "economy",
+            "topic_name": "经济建设与高质量发展",
+            "weighted_score": 15.83
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 101,
+          "stem": "党的二十大报告指出，我们创立了新时代中国特色社会主义思想，明确坚持和发展中国特色社会主义的基本方略，提出一系列治国理政新理念新思想新战略，实现了马克思主义（ ）新的飞跃。",
+          "options": [
+            {
+              "key": "A",
+              "text": "中国化历史性"
+            },
+            {
+              "key": "B",
+              "text": "中国化时代化"
+            },
+            {
+              "key": "C",
+              "text": "时代化历史性"
+            },
+            {
+              "key": "D",
+              "text": "时代化现代化"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、中国化时代化",
+          "order": 98,
+          "id": "single-cb99569031",
+          "source": "选择题题库.docx",
+          "topic": "thought",
+          "topic_name": "习近平新时代中国特色社会主义思想",
+          "tags": [
+            "thought",
+            "congress20"
+          ],
+          "rationale": {
+            "cluster_count": 3,
+            "topic": "thought",
+            "topic_name": "习近平新时代中国特色社会主义思想",
+            "weighted_score": 14.27
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 122,
+          "stem": "我们必须增强忧患意识，坚持（ ）做到居安思危、未雨绸缪，准备经受风高浪急甚至惊涛骇浪的重大考验。",
+          "options": [
+            {
+              "key": "A",
+              "text": "以人民为中心"
+            },
+            {
+              "key": "B",
+              "text": "底线思维"
+            },
+            {
+              "key": "C",
+              "text": "斗争精神"
+            },
+            {
+              "key": "D",
+              "text": "不怕困难、不怕挑战"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B. 底线思维",
+          "order": 118,
+          "id": "single-37fa669dc5-2",
+          "source": "选择题题库.docx",
+          "topic": "leadership",
+          "topic_name": "党的领导与政治建设",
+          "tags": [
+            "leadership"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "leadership",
+            "topic_name": "党的领导与政治建设",
+            "weighted_score": 12.151
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 102,
+          "stem": "党的二十大报告指出，我们坚持精准扶贫、尽锐出战，打赢了人类历史上规模最大的脱贫攻坚战，全国八百三十二个贫困县全部摘帽，近一亿农村贫困人口实现脱贫，九百六十多万贫困人口实现易地搬迁，历史性地解决了（ ）问题，为全球减贫事业作出了重大贡献。",
+          "options": [
+            {
+              "key": "A",
+              "text": "绝对贫困"
+            },
+            {
+              "key": "B",
+              "text": "相对贫困"
+            },
+            {
+              "key": "C",
+              "text": "脱贫攻坚"
+            },
+            {
+              "key": "D",
+              "text": "人民贫困"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A"
+          ],
+          "answer_text": "A、绝对贫困",
+          "order": 99,
+          "id": "single-c6834c8b7f",
+          "source": "选择题题库.docx",
+          "topic": "society",
+          "topic_name": "社会建设与民生保障",
+          "tags": [
+            "society",
+            "congress20"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "society",
+            "topic_name": "社会建设与民生保障",
+            "weighted_score": 11.884
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 77,
+          "stem": "必须更好发挥法治（ ） 、稳预期、利长远的保障作用，在法治轨道上全面建设社 会主义现代化国家。",
+          "options": [
+            {
+              "key": "A",
+              "text": "强根本"
+            },
+            {
+              "key": "B",
+              "text": "固根本"
+            },
+            {
+              "key": "C",
+              "text": "利根本"
+            },
+            {
+              "key": "D",
+              "text": "稳根本"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、固根本",
+          "order": 74,
+          "id": "single-8c3bab62f1",
+          "source": "选择题题库.docx",
+          "topic": "democracy",
+          "topic_name": "政治建设与全过程人民民主",
+          "tags": [
+            "democracy"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "democracy",
+            "topic_name": "政治建设与全过程人民民主",
+            "weighted_score": 11.408
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 4,
+          "stem": "2026年全国两会召开的是全国人大（）和全国政协（）",
+          "options": [
+            {
+              "key": "A",
+              "text": "十三届四次会议 十三届三次会议"
+            },
+            {
+              "key": "B",
+              "text": "十四届三次会议 十四届三次会议"
+            },
+            {
+              "key": "C",
+              "text": "十四届四次会议 十四届四次会议"
+            },
+            {
+              "key": "D",
+              "text": "十五届一次会议 十五届一次会议"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C. 十四届四次会议 十四届四次会议",
+          "order": 0,
+          "id": "single-f6f488df39",
+          "source": "选择题题库.docx",
+          "topic": "current",
+          "topic_name": "时政与重要会议",
+          "tags": [
+            "current"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "current",
+            "topic_name": "时政与重要会议",
+            "weighted_score": 11.205
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 7,
+          "stem": "《中国共产党纪律处分条例》规定，违反有关规定自定薪酬或滥发津贴、补贴、奖金等，对直接责任者和领导责任者，情节严重的，给予（ ）处分",
+          "options": [
+            {
+              "key": "A",
+              "text": "警告"
+            },
+            {
+              "key": "B",
+              "text": "严重警告"
+            },
+            {
+              "key": "C",
+              "text": "撤销党内职务或留党察看"
+            },
+            {
+              "key": "D",
+              "text": "开除党籍"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、撤销党内职务或留党察看",
+          "order": 3,
+          "id": "single-4b6e6b7764",
+          "source": "选择题题库.docx",
+          "topic": "discipline",
+          "topic_name": "党的纪律与纪律处分条例",
+          "tags": [
+            "discipline"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "discipline",
+            "topic_name": "党的纪律与纪律处分条例",
+            "weighted_score": 10.62
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 83,
+          "stem": "中国共产党第二十次全国代表大会于 2022年（ ） 在北京开幕。",
+          "options": [
+            {
+              "key": "A",
+              "text": "10 月14日"
+            },
+            {
+              "key": "B",
+              "text": "10月15日"
+            },
+            {
+              "key": "C",
+              "text": "10月16日"
+            },
+            {
+              "key": "D",
+              "text": "10月17日"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、10月16日",
+          "order": 80,
+          "id": "single-892c59b6ba",
+          "source": "选择题题库.docx",
+          "topic": "organization",
+          "topic_name": "党的组织制度与党员发展",
+          "tags": [
+            "organization"
+          ],
+          "rationale": {
+            "cluster_count": 3,
+            "topic": "organization",
+            "topic_name": "党的组织制度与党员发展",
+            "weighted_score": 9.725
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 72,
+          "stem": "贯彻（ ），以坚定的意志品质维护国家主权、安全、发展利益，国家安全得到全面加强。",
+          "options": [
+            {
+              "key": "A",
+              "text": "国家总体安全观"
+            },
+            {
+              "key": "B",
+              "text": "总体国家安全观"
+            },
+            {
+              "key": "C",
+              "text": "总体国家平安观"
+            },
+            {
+              "key": "D",
+              "text": "国家总体平安观"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、总体国家安全观",
+          "order": 69,
+          "id": "single-3de88e09e2",
+          "source": "选择题题库.docx",
+          "topic": "military",
+          "topic_name": "国防军队与国家安全",
+          "tags": [
+            "military"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "military",
+            "topic_name": "国防军队与国家安全",
+            "weighted_score": 8.795
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 53,
+          "stem": "中国共产党党员必须（ ），不惜牺牲个人的一切，为实现共产主义奋斗终身。",
+          "options": [
+            {
+              "key": "A",
+              "text": "拥护党的章程"
+            },
+            {
+              "key": "B",
+              "text": "坚持党的基本路线"
+            },
+            {
+              "key": "C",
+              "text": "坚持党的基本纲领"
+            },
+            {
+              "key": "D",
+              "text": "全心全意为人民服务"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D、全心全意为人民服务",
+          "order": 50,
+          "id": "single-dfbaf23b25",
+          "source": "选择题题库.docx",
+          "topic": "constitution",
+          "topic_name": "党章与党的性质宗旨",
+          "tags": [
+            "constitution"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "constitution",
+            "topic_name": "党章与党的性质宗旨",
+            "weighted_score": 8.265
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": null,
+          "stem": "二十届三中全会提出，健全（ ）体系，把安全贯穿经济发展各领域全过程。",
+          "options": [
+            {
+              "key": "A",
+              "text": "风险处置"
+            },
+            {
+              "key": "B",
+              "text": "经济安全保障"
+            },
+            {
+              "key": "C",
+              "text": "应急管理"
+            },
+            {
+              "key": "D",
+              "text": "风险预警"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、经济安全保障",
+          "order": 7,
+          "id": "single-e800e8c2cc",
+          "source": "选择题题库.docx",
+          "topic": "plenum20_3",
+          "topic_name": "二十届三中全会与全面深化改革",
+          "tags": [
+            "plenum20_3"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "plenum20_3",
+            "topic_name": "二十届三中全会与全面深化改革",
+            "weighted_score": 8.13
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 30,
+          "stem": "建设（ ）是中华民族伟大复兴的基础工程。",
+          "options": [
+            {
+              "key": "A",
+              "text": "经济强国"
+            },
+            {
+              "key": "B",
+              "text": "政治强国"
+            },
+            {
+              "key": "C",
+              "text": "教育强国"
+            },
+            {
+              "key": "D",
+              "text": "文化强国"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、教育强国",
+          "order": 26,
+          "id": "single-8adee01dee",
+          "source": "选择题题库.docx",
+          "topic": "cppcc",
+          "topic_name": "政协与统一战线",
+          "tags": [
+            "cppcc",
+            "economy",
+            "society"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "cppcc",
+            "topic_name": "政协与统一战线",
+            "weighted_score": 7.004
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 73,
+          "stem": "全面推进中国特色大国外交，推动构建人类命运共同体，坚定维护国际公平正义，毫不动摇反对任何单边主义、保护主义、（ ） 。",
+          "options": [
+            {
+              "key": "A",
+              "text": "霸凌行径"
+            },
+            {
+              "key": "B",
+              "text": "霸权主义"
+            },
+            {
+              "key": "C",
+              "text": "限制主义"
+            },
+            {
+              "key": "D",
+              "text": "欺压行径"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A"
+          ],
+          "answer_text": "霸凌行径",
+          "order": 70,
+          "id": "single-92c4ccf6ff",
+          "source": "选择题题库.docx",
+          "topic": "diplomacy",
+          "topic_name": "中国特色大国外交",
+          "tags": [
+            "diplomacy"
+          ],
+          "rationale": {
+            "cluster_count": 3,
+            "topic": "diplomacy",
+            "topic_name": "中国特色大国外交",
+            "weighted_score": 6.809
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 85,
+          "stem": "党和国家确立和坚持马克思主义 在意识形态领域指导地位的根本制度，社会主义核心价值观广泛传播，中华优秀传統文化得到创造性转化、创新性发展，文化事业日益繁荣，网络生态持续向好，意识形态领域形势发生（ ） 转变。",
+          "options": [
+            {
+              "key": "A",
+              "text": "全局性、彻底性"
+            },
+            {
+              "key": "B",
+              "text": "全局性、 根本性"
+            },
+            {
+              "key": "C",
+              "text": "全面性、彻底性"
+            },
+            {
+              "key": "D",
+              "text": "全面性、 根本性"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、全局性、 根本性",
+          "order": 82,
+          "id": "single-a87f17af90",
+          "source": "选择题题库.docx",
+          "topic": "culture",
+          "topic_name": "文化建设与意识形态",
+          "tags": [
+            "culture"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "culture",
+            "topic_name": "文化建设与意识形态",
+            "weighted_score": 4.917
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 16,
+          "stem": "中国共产党领导人民建设社会主义生态文明。树立尊重自然、顺应自然、保护自然的生态文明理念，增强（ ）的意识。",
+          "options": [
+            {
+              "key": "A",
+              "text": "金山银山不如绿水青山"
+            },
+            {
+              "key": "B",
+              "text": "绿水青山就是金山银山"
+            },
+            {
+              "key": "C",
+              "text": "金山银山就是绿水青山"
+            },
+            {
+              "key": "D",
+              "text": "绿水青山胜过金山银山"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、绿水青山就是金山银山",
+          "order": 12,
+          "id": "single-a2b0211fa9",
+          "source": "选择题题库.docx",
+          "topic": "ecology",
+          "topic_name": "生态文明与绿色发展",
+          "tags": [
+            "ecology"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "ecology",
+            "topic_name": "生态文明与绿色发展",
+            "weighted_score": 4.479
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 55,
+          "stem": "“创先争优”活动中优秀共产党员“五带头”是指出带头学习提高、带头争创佳绩、带头服务群众、带头遵纪守法和（ ）",
+          "options": [
+            {
+              "key": "A",
+              "text": "带头任劳任怨"
+            },
+            {
+              "key": "B",
+              "text": "带头以身作则"
+            },
+            {
+              "key": "C",
+              "text": "带头埋头苦干"
+            },
+            {
+              "key": "D",
+              "text": "带头弘扬正气"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D、带头弘扬正气",
+          "order": 52,
+          "id": "single-031b2dd7b7",
+          "source": "选择题题库.docx",
+          "topic": "grassroots",
+          "topic_name": "基层党建与党务工作",
+          "tags": [
+            "grassroots",
+            "organization"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "grassroots",
+            "topic_name": "基层党建与党务工作",
+            "weighted_score": 3.276
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 80,
+          "stem": "中国式现代化，是（ ）领导的社会主义现代化，既有各国现代化的共同特征，更有基于自己国情的中国特色。",
+          "options": [
+            {
+              "key": "A",
+              "text": "中华民族"
+            },
+            {
+              "key": "B",
+              "text": "中国共产党"
+            },
+            {
+              "key": "C",
+              "text": "马克思列宁主义"
+            },
+            {
+              "key": "D",
+              "text": "炎黄子孙"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、中国共产党",
+          "order": 77,
+          "id": "single-2d2af3d350",
+          "source": "选择题题库.docx",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20",
+            "plenum20_3"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "congress20",
+            "topic_name": "党的二十大与中国式现代化",
+            "weighted_score": 22.04
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 78,
+          "stem": "一切从实际出发，着眼解决新时代改革开放和社会主义现代化建设的实际问题，不断回答中国之问、世界之问、（ ）、时代之问，作出符合中国实际和时代要求的正确回答，得出符合客观规律的科学认识，形成与时俱进的理论成果，更好指导中国实践。",
+          "options": [
+            {
+              "key": "A",
+              "text": "社会之问"
+            },
+            {
+              "key": "B",
+              "text": "人民之问"
+            },
+            {
+              "key": "C",
+              "text": "实际之问"
+            },
+            {
+              "key": "D",
+              "text": "群众之问"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、人民之问",
+          "order": 75,
+          "id": "single-49a1a2905d",
+          "source": "选择题题库.docx",
+          "topic": "history",
+          "topic_name": "党史与党的奋斗历程",
+          "tags": [
+            "history",
+            "economy"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "history",
+            "topic_name": "党史与党的奋斗历程",
+            "weighted_score": 17.777
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 124,
+          "stem": "坚持中国特色社会主义道路。坚持（ ），坚持四项基本原则，坚持改革开放。",
+          "options": [
+            {
+              "key": "A",
+              "text": "新发展理念"
+            },
+            {
+              "key": "B",
+              "text": "以经济建设为中心"
+            },
+            {
+              "key": "C",
+              "text": "中华民族永续发展"
+            },
+            {
+              "key": "D",
+              "text": "提升人民生活水平"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B. 以经济建设为中心",
+          "order": 120,
+          "id": "single-c991566d40",
+          "source": "选择题题库.docx",
+          "topic": "economy",
+          "topic_name": "经济建设与高质量发展",
+          "tags": [
+            "economy",
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "economy",
+            "topic_name": "经济建设与高质量发展",
+            "weighted_score": 14.73
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 47,
+          "stem": "习近平新时代中国特色社会主义思想，是（ ）最新成果，是党和人民实践经验和集体智慧的结晶，是中国特色社会主义理论体系的重要组成部分，是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南，必须长期坚持并不断发展。",
+          "options": [
+            {
+              "key": "A",
+              "text": "社会主义中国化"
+            },
+            {
+              "key": "B",
+              "text": "马列主义中国化"
+            },
+            {
+              "key": "C",
+              "text": "马克思主义中国化"
+            },
+            {
+              "key": "D",
+              "text": "科学社会主义中国化"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、马克思主义中国化",
+          "order": 43,
+          "id": "single-95ad5f8e68",
+          "source": "选择题题库.docx",
+          "topic": "thought",
+          "topic_name": "习近平新时代中国特色社会主义思想",
+          "tags": [
+            "thought"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "thought",
+            "topic_name": "习近平新时代中国特色社会主义思想",
+            "weighted_score": 11.97
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 119,
+          "stem": "我国发展进入战略机遇和风险挑战并存、不确定难预料因素增多的时期，各种“黑天鹅”、（ ）事件随时可能发生。",
+          "options": [
+            {
+              "key": "A",
+              "text": "“大白象”"
+            },
+            {
+              "key": "B",
+              "text": "“大白鲨”"
+            },
+            {
+              "key": "C",
+              "text": "“独角兽”"
+            },
+            {
+              "key": "D",
+              "text": "“灰犀牛”"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D. “灰犀牛”",
+          "order": 115,
+          "id": "single-dbd5bc0e9a-2",
+          "source": "选择题题库.docx",
+          "topic": "leadership",
+          "topic_name": "党的领导与政治建设",
+          "tags": [
+            "leadership"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "leadership",
+            "topic_name": "党的领导与政治建设",
+            "weighted_score": 12.151
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 61,
+          "stem": "在第（ ）个国家扶贫日到来之际，中共中央总书记、国家主席、中央军委主席习近平对脱贫攻坚工作作出重要指示强调，（ ）年是决胜全面建成小康社会、决战脱贫攻坚之年。（ ）",
+          "options": [
+            {
+              "key": "A",
+              "text": "6、2020"
+            },
+            {
+              "key": "B",
+              "text": "5、2019"
+            },
+            {
+              "key": "C",
+              "text": "7、2020"
+            },
+            {
+              "key": "D",
+              "text": "5、2020"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C"
+          ],
+          "answer_text": "C、7、2020",
+          "order": 58,
+          "id": "single-945b1f65ff",
+          "source": "选择题题库.docx",
+          "topic": "society",
+          "topic_name": "社会建设与民生保障",
+          "tags": [
+            "society",
+            "congress20",
+            "current"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "society",
+            "topic_name": "社会建设与民生保障",
+            "weighted_score": 10.884
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 63,
+          "stem": "《全国人民代表大会常务委员会关于修改〈中华人民共和国国旗法〉的决定》已由中华人民共和国第十三届全国人民代表大会常务委员会第二十二次会议于（ ）通过，现予公布，自（ ）起施行。",
+          "options": [
+            {
+              "key": "A",
+              "text": "2019年10月27日、2019年12月1日"
+            },
+            {
+              "key": "B",
+              "text": "2020年10月17日、2020年12月1日"
+            },
+            {
+              "key": "C",
+              "text": "2019年10月27日、2020年1月1日"
+            },
+            {
+              "key": "D",
+              "text": "2020年10月17日、2021年1月1日"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D、2020年10月17日、2021年1月1日",
+          "order": 60,
+          "id": "single-1a53f03e56",
+          "source": "选择题题库.docx",
+          "topic": "democracy",
+          "topic_name": "政治建设与全过程人民民主",
+          "tags": [
+            "democracy",
+            "organization"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "democracy",
+            "topic_name": "政治建设与全过程人民民主",
+            "weighted_score": 10.308
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 64,
+          "stem": "（ ），中央政治局就“深入学习领会和贯彻落实新时代党的组织路线”举行第二十一次集体学习",
+          "options": [
+            {
+              "key": "A",
+              "text": "2019年6月29日"
+            },
+            {
+              "key": "B",
+              "text": "2020年6月29日"
+            },
+            {
+              "key": "C",
+              "text": "2019年10月29日"
+            },
+            {
+              "key": "D",
+              "text": "2020年10月29日"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、2020年6月29日",
+          "order": 61,
+          "id": "single-b6c34fb669",
+          "source": "选择题题库.docx",
+          "topic": "current",
+          "topic_name": "时政与重要会议",
+          "tags": [
+            "current",
+            "organization",
+            "thought"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "current",
+            "topic_name": "时政与重要会议",
+            "weighted_score": 10.905
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 108,
+          "stem": "中共五大成立了我党历史上第一个中央级的纪律检查机构——（ ），这是党的纪律检查工作的创举，是党的纪律建设开始走上正轨的标志。",
+          "options": [
+            {
+              "key": "A",
+              "text": "国家纪律检查委员会"
+            },
+            {
+              "key": "B",
+              "text": "中央监察委员会"
+            },
+            {
+              "key": "C",
+              "text": "中央纪律检查委员会"
+            },
+            {
+              "key": "D",
+              "text": "国家监察委员会"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、中央监察委员会",
+          "order": 105,
+          "id": "single-bd31b1e2aa",
+          "source": "选择题题库.docx",
+          "topic": "discipline",
+          "topic_name": "党的纪律与纪律处分条例",
+          "tags": [
+            "discipline",
+            "democracy"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "discipline",
+            "topic_name": "党的纪律与纪律处分条例",
+            "weighted_score": 10.62
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 97,
+          "stem": "中国共产党第二十次全国代表大会，是在全党全国各族人民迈上全面建设社会主义现代化国家新征程、向（ ）进军的关键时刻召开的一次十分重要的大会。",
+          "options": [
+            {
+              "key": "A",
+              "text": "中国特色社会主义新时代"
+            },
+            {
+              "key": "B",
+              "text": "全面建成小康社会目标"
+            },
+            {
+              "key": "C",
+              "text": "第一个百年奋斗目标"
+            },
+            {
+              "key": "D",
+              "text": "第二个百年奋斗目标"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D、第二个百年奋斗目标",
+          "order": 94,
+          "id": "single-727e7afe54",
+          "source": "选择题题库.docx",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20",
+            "history",
+            "organization"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "organization",
+            "topic_name": "党的组织制度与党员发展",
+            "weighted_score": 8.825
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 24,
+          "stem": "中央军事委员会负责军队中（ ）和（ ），对军队中党的组织体制和机构作出规定。",
+          "options": [
+            {
+              "key": "A",
+              "text": "一切工作；思想工作"
+            },
+            {
+              "key": "B",
+              "text": "一切工作；政治工作"
+            },
+            {
+              "key": "C",
+              "text": "党的工作；思想工作"
+            },
+            {
+              "key": "D",
+              "text": "党的工作；政治工作"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "D"
+          ],
+          "answer_text": "D、党的工作；政治工作",
+          "order": 20,
+          "id": "single-e904a4face",
+          "source": "选择题题库.docx",
+          "topic": "military",
+          "topic_name": "国防军队与国家安全",
+          "tags": [
+            "military"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "military",
+            "topic_name": "国防军队与国家安全",
+            "weighted_score": 7.695
+          }
+        },
+        {
+          "type": "single",
+          "section": "single",
+          "number": 57,
+          "stem": "中国共产党的根本组织原则是（ ）",
+          "options": [
+            {
+              "key": "A",
+              "text": "集体领导"
+            },
+            {
+              "key": "B",
+              "text": "民主集中"
+            },
+            {
+              "key": "C",
+              "text": "分工领导"
+            },
+            {
+              "key": "D",
+              "text": "群众路线"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B"
+          ],
+          "answer_text": "B、民主集中",
+          "order": 54,
+          "id": "single-3fbf0dd6c5",
+          "source": "选择题题库.docx",
+          "topic": "constitution",
+          "topic_name": "党章与党的性质宗旨",
+          "tags": [
+            "constitution"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "constitution",
+            "topic_name": "党章与党的性质宗旨",
+            "weighted_score": 8.265
+          }
+        }
+      ]
+    },
+    {
+      "type": "multi",
+      "name": "多项选择题",
+      "points": 2,
+      "questions": [
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": null,
+          "stem": "中国式现代化的中国特色有（ ）",
+          "options": [
+            {
+              "key": "A",
+              "text": "人口规模巨大的现代化"
+            },
+            {
+              "key": "B",
+              "text": "全体人民共同富裕的现代化"
+            },
+            {
+              "key": "C",
+              "text": "物质文明和精神文明相协调的现代化"
+            },
+            {
+              "key": "D",
+              "text": "优先发展物质财富的现代化"
+            }
+          ],
+          "has_options": true,
+          "unlettered": true,
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer_text": "人口规模巨大的现代化；全体人民共同富裕的现代化；物质文明和精神文明相协调的现代化",
+          "order": 185,
+          "id": "multi-afc291067c",
+          "source": "选择题题库.docx",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "congress20",
+            "topic_name": "党的二十大与中国式现代化",
+            "weighted_score": 21.18
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 66,
+          "stem": "中国共产党在长期的革命和建设过程中形成的三大优良作风是指（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "理论联系实际"
+            },
+            {
+              "key": "B",
+              "text": "密切联系群众"
+            },
+            {
+              "key": "C",
+              "text": "批评与自我批评"
+            },
+            {
+              "key": "D",
+              "text": "求真务实"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer_text": "A. 理论联系实际；B. 密切联系群众；C. 批评与自我批评",
+          "order": 177,
+          "id": "multi-74e2d45ec7-2",
+          "source": "选择题题库.docx",
+          "topic": "history",
+          "topic_name": "党史与党的奋斗历程",
+          "tags": [
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "history",
+            "topic_name": "党史与党的奋斗历程",
+            "weighted_score": 18.117
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 44,
+          "stem": "近期，习近平总书记发表一系列重要讲话，深入阐述构建新发展格局必须抓住提升（ ）这个关键。",
+          "options": [
+            {
+              "key": "A",
+              "text": "自主创新能力"
+            },
+            {
+              "key": "B",
+              "text": "自主研发能力"
+            },
+            {
+              "key": "C",
+              "text": "突破高端技术垄断"
+            },
+            {
+              "key": "D",
+              "text": "突破关键核心技术"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "D"
+          ],
+          "answer_text": "A、自主创新能力；D、突破关键核心技术",
+          "order": 155,
+          "id": "multi-a8ba48461d",
+          "source": "选择题题库.docx",
+          "topic": "economy",
+          "topic_name": "经济建设与高质量发展",
+          "tags": [
+            "economy",
+            "congress20",
+            "current",
+            "grassroots"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "economy",
+            "topic_name": "经济建设与高质量发展",
+            "weighted_score": 16.07
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 45,
+          "stem": "2020年6月29日，中央政治局就“深入学习领会和贯彻落实新时代党的组织路线”举行第二十一次集体学习，习近平总书记发表重要讲话。这是对贯彻新时代党的组织路线最全面、最系统的重要论述，为加强新时代党的建设特别是组织建设提供了根本遵循。我们要提高政治站位，深刻把握新时代党的组织路线的丰富内涵和实践要求，切实增强贯彻落实的（ ），真正把新时代党的组织路线落到实处。",
+          "options": [
+            {
+              "key": "A",
+              "text": "政治自觉"
+            },
+            {
+              "key": "B",
+              "text": "思想自觉"
+            },
+            {
+              "key": "C",
+              "text": "理论自觉"
+            },
+            {
+              "key": "D",
+              "text": "行动自觉"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "answer_text": "A、政治自觉 B、思想自觉；D、行动自觉",
+          "order": 156,
+          "id": "multi-0fd10f2b73",
+          "source": "选择题题库.docx",
+          "topic": "thought",
+          "topic_name": "习近平新时代中国特色社会主义思想",
+          "tags": [
+            "thought",
+            "organization",
+            "current"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "thought",
+            "topic_name": "习近平新时代中国特色社会主义思想",
+            "weighted_score": 12.21
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 20,
+          "stem": "有中国特色社会主义的政治制度主要包括（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "人民民主专政制度"
+            },
+            {
+              "key": "B",
+              "text": "人民代表大会制度"
+            },
+            {
+              "key": "C",
+              "text": "民族区域自治制度"
+            },
+            {
+              "key": "D",
+              "text": "共产党领导的多党合作和政治协商制度"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer_text": "A、 人民民主专政制度；B、 人民代表大会制度；C、 民族区域自治制度；D、 共产党领导的多党合作和政治协商制度",
+          "order": 135,
+          "id": "multi-4bcf4ab646",
+          "source": "选择题题库.docx",
+          "topic": "democracy",
+          "topic_name": "政治建设与全过程人民民主",
+          "tags": [
+            "democracy",
+            "cppcc"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "democracy",
+            "topic_name": "政治建设与全过程人民民主",
+            "weighted_score": 11.748
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 9,
+          "stem": "在党长期执政的条件下，必须解决的两大历史性课题是（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "不断改革党的建设"
+            },
+            {
+              "key": "B",
+              "text": "不断改善党的领导水平"
+            },
+            {
+              "key": "C",
+              "text": "不断提高党的领导水平和执政水平"
+            },
+            {
+              "key": "D",
+              "text": "不断提高党的拒腐防变和抵御风险的能力"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "C",
+            "D"
+          ],
+          "answer_text": "C、不断提高党的领导水平和执政水平；D、不断提高党的拒腐防变和抵御风险的能力",
+          "order": 127,
+          "id": "multi-89b48895c8",
+          "source": "选择题题库.docx",
+          "topic": "leadership",
+          "topic_name": "党的领导与政治建设",
+          "tags": [
+            "leadership"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "leadership",
+            "topic_name": "党的领导与政治建设",
+            "weighted_score": 11.391
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 56,
+          "stem": "2024年3月26开启的博鳌亚洲论坛中设置的四大板块中有（ ）",
+          "options": [
+            {
+              "key": "A",
+              "text": "科技创新"
+            },
+            {
+              "key": "B",
+              "text": "社会发展"
+            },
+            {
+              "key": "C",
+              "text": "国际合作"
+            },
+            {
+              "key": "D",
+              "text": "国际经济"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer_text": "A、科技创新；B、社会发展；C、国际合作",
+          "order": 167,
+          "id": "multi-627c2a6ede",
+          "source": "选择题题库.docx",
+          "topic": "current",
+          "topic_name": "时政与重要会议",
+          "tags": [
+            "current",
+            "economy"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "current",
+            "topic_name": "时政与重要会议",
+            "weighted_score": 11.26
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 52,
+          "stem": "面对突如其来的新冠肺炎疫情，我们坚持人民至上、生命至上，坚持（ ），坚持动态清零不动摇，开展抗击疫情人民战争、总体战、阻击战，最大限度保护了人民生命安全和身体健康，统筹疫情防控和经济社会发展取得重大积极成果。",
+          "options": [
+            {
+              "key": "A",
+              "text": "内防恶化"
+            },
+            {
+              "key": "B",
+              "text": "外防输入"
+            },
+            {
+              "key": "C",
+              "text": "内防反弹"
+            },
+            {
+              "key": "D",
+              "text": "外防渗透"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "B",
+            "C"
+          ],
+          "answer_text": "B、外防输入 C、内防反弹",
+          "order": 163,
+          "id": "multi-12d0e12e6b",
+          "source": "选择题题库.docx",
+          "topic": "society",
+          "topic_name": "社会建设与民生保障",
+          "tags": [
+            "society"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "society",
+            "topic_name": "社会建设与民生保障",
+            "weighted_score": 11.124
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 33,
+          "stem": "《中国共产党纪律处分条例》规定，实施党纪处分，应当按照规定程序经党组织集体讨论决定，不允许任何个人或者少数人决定和批准。上级党组织对违犯党纪的党组织和党员作出的处理决定，下级党组织必须执行。 以上表述不概括的是下列哪一项原则（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "党员在党纪面前人人平等原则"
+            },
+            {
+              "key": "B",
+              "text": "实事求是原则"
+            },
+            {
+              "key": "C",
+              "text": "党要管党、从严治党原则"
+            },
+            {
+              "key": "D",
+              "text": "民主集中制原则"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer_text": "A、党员在党纪面前人人平等原则 B、实事求是原则；C、党要管党、从严治党原则",
+          "order": 144,
+          "id": "multi-fe63c0fb4c",
+          "source": "选择题题库.docx",
+          "topic": "discipline",
+          "topic_name": "党的纪律与纪律处分条例",
+          "tags": [
+            "discipline"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "discipline",
+            "topic_name": "党的纪律与纪律处分条例",
+            "weighted_score": 10.86
+          }
+        },
+        {
+          "type": "multi",
+          "section": "multi",
+          "number": 67,
+          "stem": "从申请入党到成为一名共产党员必须经过的程序是（ ）。",
+          "options": [
+            {
+              "key": "A",
+              "text": "被确定为入党积极分子"
+            },
+            {
+              "key": "B",
+              "text": "被确定为发展对象"
+            },
+            {
+              "key": "C",
+              "text": "进行政治审查"
+            },
+            {
+              "key": "D",
+              "text": "预备党员的转正"
+            }
+          ],
+          "has_options": true,
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer_text": "A. 被确定为入党积极分子；B. 被确定为发展对象；C. 进行政治审查；D. 预备党员的转正",
+          "order": 178,
+          "id": "multi-25f7f23dcb-2",
+          "source": "选择题题库.docx",
+          "topic": "constitution",
+          "topic_name": "党章与党的性质宗旨",
+          "tags": [
+            "constitution",
+            "organization"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "constitution",
+            "topic_name": "党章与党的性质宗旨",
+            "weighted_score": 9.705
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "name": "填空题",
+      "points": 1,
+      "questions": [
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 94,
+          "stem": "未来__1__是全面建设社会主义现代化国家开局起步的关键时期。",
+          "blanks": [
+            "五年"
+          ],
+          "answer": [
+            "五年"
+          ],
+          "answer_text": "五年",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 93,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-fd9ca6d698",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "congress20",
+            "topic_name": "党的二十大与中国式现代化",
+            "weighted_score": 22.06
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 66,
+          "stem": "党的二十大的主题是：高举中国特色社会主义伟大旗帜，全面贯彻新时代中国特色社会主义思想，弘扬伟大建党精神，自信自强、守正创新，__1__、勇毅前行，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴而团结奋斗。",
+          "blanks": [
+            "踔厉奋发"
+          ],
+          "answer": [
+            "踔厉奋发"
+          ],
+          "answer_text": "踔厉奋发",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 65,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-644dc18bd5",
+          "topic": "history",
+          "topic_name": "党史与党的奋斗历程",
+          "tags": [
+            "history",
+            "thought"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "history",
+            "topic_name": "党史与党的奋斗历程",
+            "weighted_score": 17.797
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 2,
+          "stem": "__1__是引领发展的第一动力，是建设现代化经济体系的战略支撑。",
+          "blanks": [
+            "创新"
+          ],
+          "answer": [
+            "创新"
+          ],
+          "answer_text": "创新",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 1,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-0305c8045d",
+          "topic": "economy",
+          "topic_name": "经济建设与高质量发展",
+          "tags": [
+            "economy"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "economy",
+            "topic_name": "经济建设与高质量发展",
+            "weighted_score": 15.95
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 113,
+          "stem": "健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次__1__体系。",
+          "blanks": [
+            "社会保障"
+          ],
+          "answer": [
+            "社会保障"
+          ],
+          "answer_text": "社会保障",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 112,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-19214deec7",
+          "topic": "society",
+          "topic_name": "社会建设与民生保障",
+          "tags": [
+            "society"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "society",
+            "topic_name": "社会建设与民生保障",
+            "weighted_score": 12.104
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 44,
+          "stem": "《习近平谈治国理政》第三卷第十七篇《人民是我们党执政的最大底气》强调：“人民是我们党执政的最大底气，是我们共和国的__1__，是我们强党兴国的__2__。”",
+          "blanks": [
+            "坚实根基",
+            "根本所在"
+          ],
+          "answer": [
+            "坚实根基",
+            "根本所在"
+          ],
+          "answer_text": "坚实根基；根本所在",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 43,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-84761b872c",
+          "topic": "thought",
+          "topic_name": "习近平新时代中国特色社会主义思想",
+          "tags": [
+            "thought"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "thought",
+            "topic_name": "习近平新时代中国特色社会主义思想",
+            "weighted_score": 12.09
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 26,
+          "stem": "要把党的二十届四中全会擘画的蓝图变为现实，必须坚持和加强__1__，持之以恒推进__2__。",
+          "blanks": [
+            "党的全面领导",
+            "全面从严治党"
+          ],
+          "answer": [
+            "党的全面领导",
+            "全面从严治党"
+          ],
+          "answer_text": "党的全面领导；全面从严治党",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 25,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-67b0ac7c1e",
+          "topic": "current",
+          "topic_name": "时政与重要会议",
+          "tags": [
+            "current",
+            "plenum20_3"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "current",
+            "topic_name": "时政与重要会议",
+            "weighted_score": 11.289
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 45,
+          "stem": "__1__，是我们经受考验、战胜疫情的骨干力量，是我们党强大领导力和执政力的重要支柱",
+          "blanks": [
+            "高素质党员、干部队伍"
+          ],
+          "answer": [
+            "高素质党员、干部队伍"
+          ],
+          "answer_text": "高素质党员、干部队伍",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 44,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-cd27a511f1",
+          "topic": "leadership",
+          "topic_name": "党的领导与政治建设",
+          "tags": [
+            "leadership"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "leadership",
+            "topic_name": "党的领导与政治建设",
+            "weighted_score": 11.271
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 42,
+          "stem": "将新时代党的伟大自我革命进行到底，必须健全党和国家__1__，增强自我净化能力。",
+          "blanks": [
+            "监督体系"
+          ],
+          "answer": [
+            "监督体系"
+          ],
+          "answer_text": "监督体系",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 41,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-9f4754876d",
+          "topic": "discipline",
+          "topic_name": "党的纪律与纪律处分条例",
+          "tags": [
+            "discipline",
+            "thought",
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "discipline",
+            "topic_name": "党的纪律与纪律处分条例",
+            "weighted_score": 10.74
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 103,
+          "stem": "健全__1__的社会治理制度，提升社会治理效能。",
+          "blanks": [
+            "共建共治共享"
+          ],
+          "answer": [
+            "共建共治共享"
+          ],
+          "answer_text": "共建共治共享",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 102,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-17799cc688",
+          "topic": "democracy",
+          "topic_name": "政治建设与全过程人民民主",
+          "tags": [
+            "democracy",
+            "society"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "democracy",
+            "topic_name": "政治建设与全过程人民民主",
+            "weighted_score": 10.428
+          }
+        },
+        {
+          "type": "fill",
+          "section": "fill",
+          "number": 12,
+          "stem": "__1__是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南",
+          "blanks": [
+            "新时代中国特色社会主义思想"
+          ],
+          "answer": [
+            "新时代中国特色社会主义思想"
+          ],
+          "answer_text": "新时代中国特色社会主义思想",
+          "options": [],
+          "source": "填空题题库.docx",
+          "order": 11,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "fill-bcafd15cad",
+          "topic": "constitution",
+          "topic_name": "党章与党的性质宗旨",
+          "tags": [
+            "constitution",
+            "cppcc"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "constitution",
+            "topic_name": "党章与党的性质宗旨",
+            "weighted_score": 8.385
+          }
+        }
+      ]
+    },
+    {
+      "type": "short",
+      "name": "简答题",
+      "points": 10,
+      "questions": [
+        {
+          "type": "short",
+          "section": "short",
+          "number": 18,
+          "stem": "党的二十大主题是什么？",
+          "options": [],
+          "answer": "高举中国特色社会主义伟大旗帜，全面贯彻习近平新时代中国特色社会主义思想，弘扬伟大建党精神，自信自强、守正创新，踔厉奋发、勇毅前行，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴而团结奋斗。",
+          "answer_text": "高举中国特色社会主义伟大旗帜，全面贯彻习近平新时代中国特色社会主义思想，弘扬伟大建党精神，自信自强、守正创新，踔厉奋发、勇毅前行，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴而团结奋斗。",
+          "source": "简答题题库.docx",
+          "order": 17,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "short-f58be75fa0",
+          "topic": "congress20",
+          "topic_name": "党的二十大与中国式现代化",
+          "tags": [
+            "congress20",
+            "thought",
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "congress20",
+            "topic_name": "党的二十大与中国式现代化",
+            "weighted_score": 22.82
+          }
+        },
+        {
+          "type": "short",
+          "section": "short",
+          "number": 26,
+          "stem": "十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：",
+          "options": [],
+          "answer": "一是迎来中国共产党成立一百周年，\n二是中国特色社会主义进入新时代，\n三是完成脱贫攻坚、全面建成小康社会的历史任务，实现第一个百年奋斗目标。",
+          "answer_text": "一是迎来中国共产党成立一百周年，\n二是中国特色社会主义进入新时代，\n三是完成脱贫攻坚、全面建成小康社会的历史任务，实现第一个百年奋斗目标。",
+          "source": "简答题题库.docx",
+          "order": 25,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "short-3f350d5490-2",
+          "topic": "history",
+          "topic_name": "党史与党的奋斗历程",
+          "tags": [
+            "history"
+          ],
+          "rationale": {
+            "cluster_count": 2,
+            "topic": "history",
+            "topic_name": "党史与党的奋斗历程",
+            "weighted_score": 18.557
+          }
+        },
+        {
+          "type": "short",
+          "section": "short",
+          "number": 34,
+          "stem": "“十五五” 时期我国经济社会发展的首要目标是什么？如何实现？",
+          "options": [],
+          "answer": "①首要目标是推动高质量发展取得显著成效。\n②要完整准确全面贯彻新发展理念，加快构建新发展格局，深化改革创新，激发内生动力，实现质效统一提升。",
+          "answer_text": "①首要目标是推动高质量发展取得显著成效。\n②要完整准确全面贯彻新发展理念，加快构建新发展格局，深化改革创新，激发内生动力，实现质效统一提升。",
+          "source": "简答题题库.docx",
+          "order": 33,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "short-10cc9a77be",
+          "topic": "economy",
+          "topic_name": "经济建设与高质量发展",
+          "tags": [
+            "economy",
+            "congress20",
+            "current",
+            "plenum20_3"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "economy",
+            "topic_name": "经济建设与高质量发展",
+            "weighted_score": 15.546
+          }
+        },
+        {
+          "type": "short",
+          "section": "short",
+          "number": 24,
+          "stem": "“三个代表”重要思想的主要内容：",
+          "options": [],
+          "answer": "①发展是党执政兴国的第一要务\n②建立社会主义市场经济体制\n③全面建设小康社会\n④建设社会主义政治文明\n⑤推进党的建设新的伟大工程",
+          "answer_text": "①发展是党执政兴国的第一要务\n②建立社会主义市场经济体制\n③全面建设小康社会\n④建设社会主义政治文明\n⑤推进党的建设新的伟大工程",
+          "source": "简答题题库.docx",
+          "order": 23,
+          "needs_review": false,
+          "review_reason": "",
+          "id": "short-7864cb29cb",
+          "topic": "thought",
+          "topic_name": "习近平新时代中国特色社会主义思想",
+          "tags": [
+            "thought",
+            "economy"
+          ],
+          "rationale": {
+            "cluster_count": 1,
+            "topic": "thought",
+            "topic_name": "习近平新时代中国特色社会主义思想",
+            "weighted_score": 12.45
+          }
+        }
+      ]
+    }
+  ]
+}
