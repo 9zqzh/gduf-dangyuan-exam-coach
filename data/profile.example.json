@@ -1,0 +1,16 @@
+{
+  "exam_target": "发展对象/预备党员",
+  "exam_date": "",
+  "daily_minutes": 60,
+  "format": "单选30+多选10+填空10+简答4（按题库推断）",
+  "baseline": {
+    "score": null,
+    "date": "",
+    "notes": "首次诊断：做 15 道混合题，记录正确率与薄弱主题"
+  },
+  "weak_topics": [],
+  "strong_topics": [],
+  "sessions": [],
+  "wrongbook_focus": [],
+  "updated_at": ""
+}
