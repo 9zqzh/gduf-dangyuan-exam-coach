@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 本地个人备考档案
+data/profile.json
+
+# 原始题库 docx 含作者元数据，不入库；数据由 assets/bank.json 提供
+assets/source/
